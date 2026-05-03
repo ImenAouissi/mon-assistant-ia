@@ -1,0 +1,5 @@
+# Variables d'environnement — NE JAMAIS PUBLIER
+.env
+
+# Dépendances Node.js — trop lourdes pour Git
+node_modules/
